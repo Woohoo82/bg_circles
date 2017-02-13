@@ -1,2 +1,1 @@
-# bg_circles
-Background generator - circles
+# Background generator - circles
